@@ -18,7 +18,7 @@ This is a German offensive language and conversation analysis dataset ("DeTox-Da
 Twitter comments. The data was collected in the first half of 2021. The comments were annotated by three annotators each
 with 12 different labels. The dataset contains all single annotations including meda data (e.g. annotation duration) as
 well as a proposed gold standard.
-For details we will link the respective paper here soon.
+For all details please refer to our [paper](https://aclanthology.org/2022.woah-1.14/).
 
 ## Get Started
 
@@ -64,5 +64,28 @@ send us an email to [melanie.siegel@h-da.de](mailto:melanie.siegel@h-da.de?subje
 
 ## Citation
 
-The dataset will be officially presented on the [6th Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/) on 14th July 2022 as part of the [NAACL](https://2022.naacl.org/) conference.
-After the conference we will link the respective paper here, which we would like you to cite when you use the dataset.
+If you use the dataset, please cite our respective paper "DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis", which was presented on the [6th Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/) on 14th July 2022 as part of the [NAACL](https://2022.naacl.org/) conference.
+
+**ACL-Style:**  
+Christoph Demus, Jonas Pitz, Mina Schütz, Nadine Probol, Melanie Siegel, and Dirk Labudde. 2022. [DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis.](https://aclanthology.org/2022.woah-1.14/) In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 143–153, Seattle, Washington (Hybrid). Association for Computational Linguistics.
+
+**BibTeX:**
+```text
+@inproceedings{demus-etal-2022-comprehensive,
+    title = "DeTox: A Comprehensive Dataset for {G}erman Offensive Language and Conversation Analysis",
+    author = {Demus, Christoph  and
+      Pitz, Jonas  and
+      Sch{\"u}tz, Mina  and
+      Probol, Nadine  and
+      Siegel, Melanie  and
+      Labudde, Dirk},
+    booktitle = "Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, Washington (Hybrid)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.woah-1.14",
+    pages = "143--153",
+    abstract = "In this work, we present a new publicly available offensive language dataset of 10.278 German social media comments collected in the first half of 2021 that were annotated by in total six annotators. With twelve different annotation categories, it is far more comprehensive than other datasets, and goes beyond just hate speech detection. The labels aim in particular also at toxicity, criminal relevance and discrimination types of comments.Furthermore, about half of the comments are from coherent parts of conversations, which opens the possibility to consider the comments{'} contexts and do conversation analyses in order to research the contagion of offensive language in conversations.",
+}
+```
