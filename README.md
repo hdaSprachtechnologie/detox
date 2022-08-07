@@ -85,6 +85,7 @@ Christoph Demus, Jonas Pitz, Mina Schütz, Nadine Probol, Melanie Siegel, and Di
     address = "Seattle, Washington (Hybrid)",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.woah-1.14",
+    doi = "10.18653/v1/2022.woah-1.14",
     pages = "143--153",
     abstract = "In this work, we present a new publicly available offensive language dataset of 10.278 German social media comments collected in the first half of 2021 that were annotated by in total six annotators. With twelve different annotation categories, it is far more comprehensive than other datasets, and goes beyond just hate speech detection. The labels aim in particular also at toxicity, criminal relevance and discrimination types of comments.Furthermore, about half of the comments are from coherent parts of conversations, which opens the possibility to consider the comments{'} contexts and do conversation analyses in order to research the contagion of offensive language in conversations.",
 }
