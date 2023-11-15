@@ -1,7 +1,7 @@
 # DeTox-Dataset
 
 This repository contains the DeTox-Dataset, a German Offensive Language and Conversation Analysis dataset. It arose from
-the research project DeTox ([https://projects.fzai.h-da.de/detox/](https://projects.fzai.h-da.de/detox/)) in 2022, which
+the research project DeTox ([https://fz.h-da.de/detox/](https://fz.h-da.de/detox/)) in 2022, which
 targeted at detection of toxicity and aggression in comments in the internet.
 
 ## Content
