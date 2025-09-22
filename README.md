@@ -96,10 +96,7 @@ dataset = pd.read_csv("DeTox-Dataset_public.tsv", sep="\t")
 
 ## Request the complete dataset
 
-Unfortunately, we can't publish the complete dataset including the commtents text here (this version here is missing the
-text, it only contains the Twitter-IDs of the comments). But we are happy to provide the complete data to you, if you
-send us an email to [melanie.siegel@h-da.de](mailto:melanie.siegel@h-da.de?subject=[GitHub]%20DeTox-Dataset%20Request)
-describing in short for what you need the dataset.
+Unfortunately, we can't publish the complete dataset including the commtents text here (this version here is missing the text, it only contains the Twitter-IDs of the comments). But we are happy to provide the complete data to you, if you send us an inquiry via https://zenodo.org/records/16942994, describing in short for what you need the dataset.
 
 ## Citation
 
